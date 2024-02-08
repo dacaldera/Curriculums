@@ -18,35 +18,35 @@
 
     }
 
-    - the spacing is not as important but makes it easier to read
+- the spacing is not as important but makes it easier to read
 
-    - remember to close all open brackets and be mindful of which ones belong where
+- remember to close all open brackets and be mindful of which ones belong where
 
 ## boolean values
 
-    conditional statements use boolean values to test the condition.
+conditional statements use boolean values to test the condition.
 
-    There can only be two outcomes, true or false
+There can only be two outcomes, true or false
 
-    Some functions return boolean values
+Some functions return boolean values
 
-    the values 0 and 1 resolve to false and true respectively
+the values 0 and 1 resolve to false and true respectively
 
 ## comparisons
 
-    Math concepts can result in boolean values
+Math concepts can result in boolean values
 
-    Comparison operators are used to force boolean values in math equations
+Comparison operators are used to force boolean values in math equations
 
-    comparison operators are <, >, <=, >=, ==, !=
+comparison operators are <, >, <=, >=, ==, !=
 
 ## equals vs equal to
 
-    These are two different concepts with different uses.
+These are two different concepts with different uses.
 
-    equals is used for assignement
+equals is used for assignement
 
-    equals to is used for comparison
+equals to is used for comparison
 
 # practice
 
