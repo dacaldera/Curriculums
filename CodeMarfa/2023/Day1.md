@@ -1,6 +1,6 @@
 # Day 1
 
-    What is creative coding?: "Creative Coding is a method that uses computer programming for artistic expression. In this method, the goal is not predefined and the process is based on discovery, variation, and exploration of mostly unexpected results." 
+What is creative coding?: "Creative Coding is a method that uses computer programming for artistic expression. In this method, the goal is not predefined and the process is based on discovery, variation, and exploration of mostly unexpected results." 
 [Tim Rodenbroeker](https://timrodenbroeker.de/what-is-creative-coding/)
 
 The coding environement that we will be using is the p5 editor. The editor is hosted on the web at <https://editor.p5js.org>.
