@@ -15,11 +15,9 @@ The p5 library for javascript has many useful functions. The entire of list func
 
 ## Anatomy of a p5 sketch
 
-    The two main elements of a sketch are the setup function and the draw function (also referred to as the draw loop)
-
-    The setup function is executed only once at the beginning of the program, while the draw function is executed repeatedly.
-
-    preceeding lines with two forward slashes (//) removes the entire line from executing, thereby serving as a way to put comments into the code
+The two main elements of a sketch are the setup function and the draw function (also referred to as the draw loop)
+The setup function is executed only once at the beginning of the program, while the draw function is executed repeatedly.
+preceeding lines with two forward slashes (//) removes the entire line from executing, thereby serving as a way to put comments into the code
 
 ## Canvas coordinates
 
